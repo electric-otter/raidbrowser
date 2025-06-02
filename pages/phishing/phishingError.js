@@ -30,5 +30,5 @@ ignoreButton.addEventListener('click', function () {
 })
 
 continueButton.addEventListener('click', function () {
-  window.location = 'https://duckduckgo.com'
+  window.location = 'https://search.inetol.net/'
 })
